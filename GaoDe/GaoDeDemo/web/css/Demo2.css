@@ -1,0 +1,9 @@
+.myFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ps{
+    color: #7ba5ce;
+    font-size: 16px;
+}

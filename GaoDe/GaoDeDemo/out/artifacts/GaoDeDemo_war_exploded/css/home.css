@@ -1,0 +1,19 @@
+.myStyle{
+    border-top:1px solid #d9edf6;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 2%;
+    font-size: 22px;
+}
+.myStyle1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 2%;
+    font-size: 22px;
+}
+.myStyle2{
+    color: black;
+}
+.myStyle2:hover{
+    color: red;
+}
